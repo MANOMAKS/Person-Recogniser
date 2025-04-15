@@ -38,6 +38,9 @@ This project is an advanced face recognition system built using **Python**, **In
 pip install insightface opencv-python scikit-learn numpy scipy
 python your_script.py
 
+Note:
+This project leverages the powerful MobileFaceNet-based buffalo_l model from InsightFace, where custom face embeddings are generated and trained using user-provided images to enable highly accurate and secure face recognition.
+
 📬 Contact
 
 👨‍💻 Developed by Manoj Kumar . M
